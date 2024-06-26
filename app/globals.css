@@ -31,3 +31,74 @@ body {
     text-wrap: balance;
   }
 }
+.py-50{
+  padding: 5rem 0;
+}
+.py-40{
+  padding: 4rem 0;
+}
+ .card{ 
+  width: 90%;
+  height: 20rem;
+ }
+ .dimention {
+  width: 20%;
+  height: auto;
+  margin-bottom: 1rem;
+ }
+ .line-1 {
+  width: 25%;
+  border: .2rem solid;
+  color: blueviolet;
+ }
+ .line-2 {
+  width: 35%;
+  border: .2rem solid;
+  color: blueviolet;
+ }
+ .porte {
+  width: 8rem;
+  height: auto;
+  padding: 1rem;
+ }
+ .porte-2 {
+  width: 7.3rem;
+  height: auto;
+  padding: 1rem;
+ }
+ .title-card {
+  font-weight: bold;
+  margin: 0.2rem 0 1rem 0;
+ }
+ .contact-box{
+  /* background: rgb(51,18,69);
+  background: linear-gradient(137deg, rgba(51,18,69,1) 24%, rgba(85,16,101,1) 100%); */
+  background-color: #fbf5ff;
+ }
+ .img-contact {
+    width: 90%;
+    height: auto;
+ }
+
+ .rectangle{
+  border-radius: 5rem;
+  background-color: #621690;
+  color: #FFFFFF;
+  padding: .8rem;
+  margin: .5rem;
+  display: flex;
+  margin: auto 0;
+ }
+ .color-plus{
+  color:#B065E0;
+  width: 1.6rem;
+  height: 1.6rem;
+  fill: #B065E0;
+ }
+ .color-text-1 {
+  color: #FFFFFF;
+  font-weight: 700;
+ }
+ .section-system {
+  background-color: #fbf5ff;
+ }
