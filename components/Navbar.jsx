@@ -9,7 +9,7 @@ export default function Navigationbar(){
             <Navbar expand="lg">
                
                 <Navbar.Brand href="#">
-                    <img alt="" src="/img/logo-reembolso-salud.png" width="300" height="auto" className="d-inline-block align-top"/>{' '}
+                    <img alt="" src="/img/logo-reembolsalud.png" width="300" height="auto" className="d-inline-block align-top"/>{' '}
                 </Navbar.Brand>
                 
                 <Navbar.Toggle aria-controls="navbarScroll" />
